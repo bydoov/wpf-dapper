@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\bin\Debug\netcoreapp3.1\Pink.Domain.deps.json
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\bin\Debug\netcoreapp3.1\Pink.Domain.dll
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\bin\Debug\netcoreapp3.1\Pink.Domain.pdb
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\obj\Debug\netcoreapp3.1\Pink.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\obj\Debug\netcoreapp3.1\Pink.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\obj\Debug\netcoreapp3.1\Pink.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\obj\Debug\netcoreapp3.1\Pink.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\obj\Debug\netcoreapp3.1\Pink.Domain.dll
+C:\Users\user\Desktop\AzGit\wpf-dapper\Pink\Ping.Domain\obj\Debug\netcoreapp3.1\Pink.Domain.pdb
